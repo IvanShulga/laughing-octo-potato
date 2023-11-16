@@ -1,0 +1,112 @@
+h1 {
+  
+  font-size: 40px;
+  
+}
+
+a, h1, p {
+  
+  font-family: Georgia, serif;
+  color: rgb(40, 40, 40);
+  
+}
+
+p, a {
+  
+  font-size: 24px;
+  
+}
+
+.text_first_page {
+  
+  margin: 4px;
+  
+}
+
+.top, .bottom-left-bottom, .bottom-left-top-right-bottom, .bottom-left-top-left, .bottom-right, .bottom_text, .top_text {
+  
+  display: flex;
+  
+}
+
+.top, .bottom-left-bottom {
+  
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.metallica_logo {
+  
+  height: 110px;
+  margin-right: 40px;
+  
+}
+
+.bottom-left-top-right-bottom {
+  
+  font-size: 12px;
+  justify-content: center;
+  align-items: flex-start;
+  
+}
+
+.bottom-left-top-left, .bottom-right {
+
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 10px;
+  
+}
+
+.list-left, .list-right {
+  
+  list-style-type: none;
+  
+}
+
+.text_center {
+  
+  margin: 0;
+  margin-top: 2px;
+  
+}
+
+.text_top {
+  
+  margin: 0;
+  margin-right: 30px;
+  font-size: 42px;
+  
+}
+
+.bottom_text, .top_text {
+  
+  background-color: white;
+  font-size: 14px;
+  width: 120px;
+  height: 35px;
+  border: 1px solid;
+  padding: 5px;
+  margin-left: 30px;
+  
+}
+
+.top_text {
+
+  justify-content: flex-end;
+  
+}
+
+.bottom_text {
+
+  justify-content: center;
+  
+}
+
+.bottom-left-top-left-top {
+  
+  display: flex;
+  align-items: center;
+  
+}

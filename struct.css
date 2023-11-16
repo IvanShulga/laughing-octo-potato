@@ -1,0 +1,135 @@
+html, body {
+  
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  
+}
+
+.container {
+  
+  height: 100%;
+  
+}
+
+.top_div, .bottom_x, .right, .left_bottom, .left_top_left, .left_top_right, .top_x, .bottom_x {
+  
+  border: 1px solid;
+  
+}
+
+.top_div {
+  
+  height: 19.3%;
+  background-color: #87CEFA;
+  position: relative;
+  text-align: center;
+  border-bottom: 0;
+  
+}
+
+.left {
+  
+  position: absolute;
+  height: 80%;
+  width: 80%;
+  text-align: center;
+  left: 0;
+  
+}
+
+.right {
+  
+  position: absolute;
+  height: 80%;
+  width: 20%;
+  text-align: center;
+  background-color: #FFDEAD;
+  right: 0;
+  
+}
+
+.left_top {
+  
+  height: 75%;
+  top: 0;
+  
+}
+
+.left_bottom {
+  
+  background-color: #87CEFA;
+  height: 25%;
+  bottom: 0;
+  
+}
+
+.left_top_left {
+  
+  background-color: #FFDEAD;
+  width: 35%;
+  position: absolute;
+  height: 75%;
+  left: 0;
+  top: 0;
+  
+}
+
+.left_top_right {
+  
+  width: 65%;
+  position: absolute;
+  height: 75%;
+  right: 0;
+  top: 0;
+  
+}
+
+.left_top_right_top {
+  
+  height: 90%;
+  top: -1vw;
+  background-color: white;
+  
+}
+
+.left_top_right_bottom {
+  
+  height: 9.8%;
+  bottom: 0;
+  background-color: rgb(150,220,120);
+  border-top: 1px solid;
+  
+}
+
+.top_x {
+  
+  background-color: white;
+  position: absolute;
+  width: 16%;
+  height: 27%;
+  top: 50%;
+  left: 2%;
+  transform: translateY(-100%);
+  
+}
+
+.bottom_x {
+  
+  background-color: white;
+  position: absolute;
+  width: 23%;
+  height: 7%;
+  top: 85%;
+  left: 2%;
+  
+}
+
+.metallica_logo {
+  
+  width: 17vw;
+  position: relative;
+  top: 15%;
+  left: 28vw;
+  
+}

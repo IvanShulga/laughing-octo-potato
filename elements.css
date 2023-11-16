@@ -1,0 +1,176 @@
+p, li, h2, a{
+  
+  font-family: Georgia, serif;
+  color: rgb(40, 40, 40);
+  
+}
+
+h2{
+  
+  font-weight: normal;
+  
+}
+
+.text_top {
+  
+  font-size: 5.5vw;
+  margin: 0;
+  padding-top: 1%;
+  position: absolute;
+  right: 3vw;
+  
+}
+
+.text_bottom {
+  
+  margin: 0;
+  font-size: 2vw;
+  position: absolute;
+  bottom: 10%;
+  right: 4%;  
+  
+}
+
+.right_text {
+
+  position: absolute;
+  top: 20%;
+  right: 10%;
+  font-size: 2vw;
+  width: 15vw;
+  list-style-type: none;
+    
+}
+
+.right_text li {
+  
+  padding-bottom: 1.5vw;
+  
+}
+
+.text_center {
+  
+  margin: 0;
+  font-size: 1.5vw;
+  
+}
+
+.bottom_text {
+  
+  position: absolute;
+  top: -1vw;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  font-size: 1.5vw;
+  
+}
+
+.top_text {
+  
+  font-size: 1.5vw;
+  position: absolute;
+  text-align: right;
+  right: 5%;
+  top: -1vw;
+  
+}
+
+.spysok {
+  
+  padding: 1vw;
+  list-style-type: none;
+  font-size: 2vw;
+  color: black;
+  
+}
+
+.paragraph1 {
+  
+  margin: 0;
+  padding: 1vw;
+  font-size: 2vw;
+  text-align: left;
+  
+}
+
+.left_list_albums {
+
+  position: absolute;
+  right: 26vw;
+  top: 4vw;
+  width: 40%;
+  font-size: 2vw;
+  
+}
+
+.left_list_albums li {
+  
+  width: 18vw;
+  position: relative;
+  
+}
+
+.list_concerts {
+  
+  position: absolute;
+  right: 0;
+  top: 4vw;
+  width: 90%;
+  font-size: 2vw;
+    
+}
+
+.list_concerts a {
+    
+  font-size: 2.6vw;
+  
+}
+
+.right_list_albums {
+  
+  position: absolute;
+  right: 0;
+  top: 4vw;
+  width: 40%;
+  font-size: 2vw;
+  
+}
+
+.right_list_albums li {
+  
+  width: 18vw;
+  position: relative;
+  
+}
+
+.concerts {
+  
+  margin: 0;
+  font-size: 3vw;
+  position: relative;
+  top: 1vw;
+  
+}
+
+.map {
+  
+  padding: 1vw;
+  width: 45vw;
+  height: 20vw;
+  
+}
+
+.place_where_started {
+  
+  margin: 0; 
+  padding-top: 1vw;
+  font-size: 2vw;
+  
+}
+
+.squad_image {
+  
+  padding-top: 1vw;
+  width: 35vw;
+
+}
